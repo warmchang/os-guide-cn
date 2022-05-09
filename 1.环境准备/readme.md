@@ -1,3 +1,5 @@
+### 让我们开始吧！
+
 > 在开始以前，你需要了解这些概念： linux, mac, terminal, compiler, emulator, nasm, qemu
 
 由于我在Macbook M1上运行，则需要安装以下软件：
